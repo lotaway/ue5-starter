@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ue5_starter",
+			"Path": "..\\Source\\ue5_starter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ue5_starterEditor",
+			"Path": "..\\Source\\ue5_starterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

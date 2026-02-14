@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ue5_starter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ue5_starter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ue5_starterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ue5_starter">
+      <UniqueIdentifier>{39F8080D-22B4-3507-9940-8A264736ECB5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ue5_starter\SikeActor.cpp">
+      <Filter>Source\ue5_starter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ue5_starter\SikeActor.h">
+      <Filter>Source\ue5_starter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ue5_starter\ue5_starter.Build.cs">
+      <Filter>Source\ue5_starter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ue5_starter\ue5_starter.cpp">
+      <Filter>Source\ue5_starter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ue5_starter\ue5_starter.h">
+      <Filter>Source\ue5_starter</Filter>
+    </ClInclude>
+    <Filter Include="Source\ue5_starter\Private">
+      <UniqueIdentifier>{9C30135F-F2E0-329F-A8DD-EBFB25DE1481}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ue5_starter\Private\SikeCharacter.cpp">
+      <Filter>Source\ue5_starter\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ue5_starter\Private\SikeCharacter.h">
+      <Filter>Source\ue5_starter\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

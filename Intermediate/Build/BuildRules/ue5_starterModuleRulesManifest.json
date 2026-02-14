@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\57669\\workspace\\project\\try\\ue5_starter\\Source\\ue5_starter\\ue5_starter.Build.cs",
+		"C:\\Users\\57669\\workspace\\project\\try\\ue5_starter\\Source\\ue5_starter.Target.cs",
+		"C:\\Users\\57669\\workspace\\project\\try\\ue5_starter\\Source\\ue5_starterEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
